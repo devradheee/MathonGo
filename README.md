@@ -48,8 +48,8 @@ MathonGo/
 
 ## 🧪 Testing
 
-- **Main App**: `http://localhost:3000`
-- **API Demo**: `http://localhost:3000/api-demo`
+- **Main App**: `https://mathon-go-ten.vercel.app/`
+- **API Demo**: `https://mathon-go-ten.vercel.app/api-demo`
 - Test subject tabs, filters, search, and theme toggle
 
 ## 👨‍💻 Author
